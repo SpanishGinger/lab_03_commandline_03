@@ -131,7 +131,7 @@ Use the command called cat on the file to show its contents.
 
 Describe what happened below.
 ----------
-
+ -bash: books/other/pg1232.txt: No such file or directory
 
 
 ==========
