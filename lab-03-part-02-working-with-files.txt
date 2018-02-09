@@ -100,7 +100,8 @@ bar.txt	baz.txt	qux.txt
 
 Write out the command that you used and what happened.
 ----------
-
+Macbooks-MacBook-Pro:~ macbookpro$ rmdir my_files
+rmdir: my_files: No such file or directory
 
 
 ==========
@@ -108,7 +109,7 @@ Write out the command that you used and what happened.
 
 Write out the command that you used and what happened.
 ----------
-
+rm: my_files: No such file or directory
 
 
 ==========
@@ -118,7 +119,7 @@ Force the removal of the directory and files using the -rf flag
 
 $ rm -rf my_files
 ----------
-
+nothing happened.
 
 
 ==========
